@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: New Blog Post
+subtitle: This is the first post about nothing
+gh-repo: claireskim/claireskim.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
