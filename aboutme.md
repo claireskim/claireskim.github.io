@@ -9,7 +9,7 @@ My name is Claire. I have the following qualities:
 - I love psychology theories and like creating productivity tools.
 - I have raccoons living on my roof. They make really great neighbors.
 
-What else do you need?
+What else do you want to know?
 
 ### my history
 
