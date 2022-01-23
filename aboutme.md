@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd stay with me forever (on my page)
+subtitle: Why you'd stay with me forever on my page
 ---
 
-My name is Claire. I have the following qualities:
+My name is Claire. I am:
 
-- I love psychology theories and like creating productivity tools.
-- I have raccoons living on my roof. They make really great neighbors.
+- Perusing consciousness studies. There are many types of consciousness studies; I'm exploring consciousness as in the nature of consciousness, and asking primordial questions such as, "What is it?" and "Who am I?.
+- Creating productivity tools.
 
 What else do you want to know?
 
