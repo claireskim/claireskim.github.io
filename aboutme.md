@@ -9,7 +9,7 @@ My name is Claire. I am:
 - Perusing consciousness studies. There are many types of consciousness studies; I'm exploring consciousness as in the nature of consciousness, and asking primordial questions such as, "What is it?" and "Who am I?.
 - Creating productivity tools.
 
-What else do you want to know?
+What else do you want to know??
 
 ### my history
 
